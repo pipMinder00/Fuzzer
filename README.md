@@ -17,3 +17,6 @@ Fuzzing directories is a tool for exposing hidden paths by sending a request to 
 
 ## using Single thread
 ![image](https://user-images.githubusercontent.com/56893695/148609155-f949a3df-9ebc-437d-9245-b22f482ce3bc.png)
+
+### Big thanks for developers : 
+Amenah Albuainain - Jana Alansari - Jana Alshaya - Samiyah ALrashidi - Wasmiyah Alqahtani
